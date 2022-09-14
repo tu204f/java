@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef91a7ff-55ca-45a2-a829-3aaf842bbee5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../demo_java_fx/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo_java_fx/demo_java_fx.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InitialTest/InitialTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyClass/MyClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyClass/src/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gui/gui.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gui/src/From.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gui/src/From.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gui/src/GUIFrame.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gui/src/GUIFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/test2.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EcxF0NrRgoKiXKRDtPAMBUOqzk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef91a7ff-55ca-45a2-a829-3aaf842bbee5" name="Changes" comment="" />
+      <created>1662908566276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662908566276</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
