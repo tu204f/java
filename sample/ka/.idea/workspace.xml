@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef91a7ff-55ca-45a2-a829-3aaf842bbee5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../demo_java_fx/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../demo_java_fx/demo_java_fx.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InitialTest/InitialTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyClass/MyClass.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyClass/src/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gui/gui.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gui/src/From.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gui/src/From.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gui/src/GUIFrame.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gui/src/GUIFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ka.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test2/test2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

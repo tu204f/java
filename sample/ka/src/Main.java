@@ -250,7 +250,6 @@ public class Main {
         BufferedReader bufferedReader = new BufferedReader(inputStreamReader);
         try {
             String imput = bufferedReader.readLine();
-            System.out.println(imput);
             System.out.println(calc(imput));
         }
         catch (Exception e) {
