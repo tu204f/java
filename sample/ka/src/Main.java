@@ -226,6 +226,7 @@ class CalcObj {
     }
 }
 
+
 public class Main {
 
     public static String calc(String input) {
